@@ -1,0 +1,8 @@
+local  ponteIndex = script.Parent
+
+while true do
+	ponteIndex.Transparency = 1
+		wait(1)
+	ponteIndex.Transparency = 0
+	wait(1)	
+end
